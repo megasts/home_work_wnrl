@@ -15,8 +15,9 @@
 
 #### Ответ:
 
-1. ![Screenshot from 2023-08-17 20-41-16](https://github.com/megasts/home_works/assets/71494027/42a9869c-51d9-4766-a8ba-91690958f8b2)
-2. ![Screenshot from 2023-08-17 20-41-16](https://github.com/megasts/home_works/assets/71494027/42a9869c-51d9-4766-a8ba-91690958f8b2)
+
+1. ![Screenshot from 2023-11-14 16-44-13](https://github.com/megasts/home_work_wnrl/blob/main/img/Screenshot from 2023-11-14 16-44-13.png)
+
 ---
 
 ### Задание 2
