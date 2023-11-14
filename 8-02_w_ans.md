@@ -16,7 +16,11 @@
 #### Ответ:
 
 
-1. ![Screenshot from 2023-11-14 16-44-13](https://github.com/megasts/home_work_wnrl/blob/main/img/Screenshot%20from%202023-11-14%2016-44-13.png)
+1. ![Screenshot1](https://github.com/megasts/home_work_wnrl/blob/main/img/Screenshot1.png)
+2. ![Screenshot2](https://github.com/megasts/home_work_wnrl/blob/main/img/Screenshot2.png)
+3. ![Screenshot3](https://github.com/megasts/home_work_wnrl/blob/main/img/Screenshot3.png)
+4. ![Screenshot4](https://github.com/megasts/home_work_wnrl/blob/main/img/Screenshot4.png)
+5. ![Screenshot15(https://github.com/megasts/home_work_wnrl/blob/main/img/Screenshot5.png)
 
 ---
 
