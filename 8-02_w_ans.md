@@ -20,7 +20,7 @@
 2. ![Screenshot2](https://github.com/megasts/home_work_wnrl/blob/main/img/Screenshot2.png)
 3. ![Screenshot3](https://github.com/megasts/home_work_wnrl/blob/main/img/Screenshot3.png)
 4. ![Screenshot4](https://github.com/megasts/home_work_wnrl/blob/main/img/Screenshot4.png)
-5. ![Screenshot15(https://github.com/megasts/home_work_wnrl/blob/main/img/Screenshot5.png)
+5. ![Screenshot5](https://github.com/megasts/home_work_wnrl/blob/main/img/Screenshot5.png)
 
 ---
 
