@@ -33,6 +33,15 @@
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
+#### Ответ:
+
+
+1. ![Screenshot6](https://github.com/megasts/home_work_wnrl/blob/main/img/Screenshot6.png)
+2. ![Screenshot7](https://github.com/megasts/home_work_wnrl/blob/main/img/Screenshot7.png)
+3. ![Screenshot8](https://github.com/megasts/home_work_wnrl/blob/main/img/Screenshot8.png)
+4. ![Screenshot9](https://github.com/megasts/home_work_wnrl/blob/main/img/Screenshot9.png)
+
+
 ---
 
 ### Задание 3
