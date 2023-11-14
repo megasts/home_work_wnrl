@@ -55,10 +55,13 @@
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
----
-## Дополнительные задания* (со звёздочкой)
+#### Ответ:
 
-Их выполнение необязательное и не влияет на получение зачёта по домашнему заданию. Можете их решить, если хотите лучше разобраться в материале.
+
+1. ![Screenshot3_1](https://github.com/megasts/home_work_wnrl/blob/main/img/Screenshot3_1.png)
+2. ![Screenshot3_2](https://github.com/megasts/home_work_wnrl/blob/main/img/Screenshot3_2.png)
+3. ![Screenshot3_3](https://github.com/megasts/home_work_wnrl/blob/main/img/Screenshot3_3.png)
+4. ![Screenshot3_4](https://github.com/megasts/home_work_wnrl/blob/main/img/Screenshot3_4.png)
 
 ---
 
@@ -69,3 +72,13 @@
 Подсказка: используйте переменную BUILD_NUMBER.
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+
+#### Ответ:
+
+
+1. ![Screenshot4_1](https://github.com/megasts/home_work_wnrl/blob/main/img/Screenshot4_1.png)
+2. ![Screenshot4_2](https://github.com/megasts/home_work_wnrl/blob/main/img/Screenshot4_2.png)
+3. ![Screenshot4_3](https://github.com/megasts/home_work_wnrl/blob/main/img/Screenshot4_3.png)
+4. ![Screenshot4_4](https://github.com/megasts/home_work_wnrl/blob/main/img/Screenshot4_4.png)
+
+---
