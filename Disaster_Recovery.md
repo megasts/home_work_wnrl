@@ -14,10 +14,15 @@
 #### Ответ:
 
 1. Скан настройки Router1: ![Disaster_recovery_router_1](https://github.com/megasts/home_work_wnrl/blob/main/img/Disaster_recovery_router_1.png)
+
 2. Скан настройки Router2: ![Disaster_recovery_router_2](https://github.com/megasts/home_work_wnrl/blob/main/img/Disaster_recovery_router_2.png)
+   
 3. Проверка корректности настройки:
+   
    3.1. ![Disaster_recovery_check2](https://github.com/megasts/home_work_wnrl/blob/main/img/Disaster_recovery_check2.png)
+   
    3.2. ![Disaster_recovery_check1](https://github.com/megasts/home_work_wnrl/blob/main/img/Disaster_recovery_check1.png)
+   
 4. Файл PKT: https://github.com/megasts/home_work_wnrl/blob/main/hsrp_advanced_ch.pkt
 
 ------
@@ -33,16 +38,27 @@
 #### Ответ:
 
 1. bash-скрипт: https://github.com/megasts/home_work_wnrl/blob/main/check_web.sh
+   
 2. конфигурационный файл keepalived: https://github.com/megasts/home_work_wnrl/blob/main/keepalived.conf
+   
 3. скриншоты сдемонстрацией переезда плавающего ip на другой сервер:
-   3.1. плавающий ip на основном сервере (80 порт доступен, файл присутствует) 
+4. 
+   3.1. плавающий ip на основном сервере (80 порт доступен, файл присутствует)
+   
    ![Disaster_recovery_2_standart](https://github.com/megasts/home_work_wnrl/blob/main/img/Disaster_recovery_2_standart.png)
+   
    3.2. не найден файл на осносном сервере
+   
    ![Disaster_recovery_2_not_found_index](https://github.com/megasts/home_work_wnrl/blob/main/img/Disaster_recovery_2_not_found_index.png)
+   
    3.3. не доступен web сервер на осносном сервере
+   
    ![Disaster_recovery_2_web_server_down](https://github.com/megasts/home_work_wnrl/blob/main/img/Disaster_recovery_2_web_server_down.png)
+   
    3.4. вернули все на место
+   
    ![Disaster_recovery_2_return](https://github.com/megasts/home_work_wnrl/blob/main/img/Disaster_recovery_2_return.png)
+   
 
 
 ------
