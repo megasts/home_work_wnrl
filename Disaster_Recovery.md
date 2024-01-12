@@ -42,7 +42,7 @@
 2. конфигурационный файл keepalived: https://github.com/megasts/home_work_wnrl/blob/main/keepalived.conf
    
 3. скриншоты сдемонстрацией переезда плавающего ip на другой сервер:
-4. 
+ 
    3.1. плавающий ip на основном сервере (80 порт доступен, файл присутствует)
    
    ![Disaster_recovery_2_standart](https://github.com/megasts/home_work_wnrl/blob/main/img/Disaster_recovery_2_standart.png)
