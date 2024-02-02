@@ -26,7 +26,7 @@
 
 - Какие сетевые службы в ней разрешены:
 
-![Redis_memcached_1](https://github.com/megasts/home_work_wnrl/blob/main/img/Redis_memcached_1.png)
+![Vulnerabilities](https://github.com/megasts/home_work_wnrl/blob/main/img/Vulnerabilities.png)
 
 - Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
 
