@@ -1,0 +1,18 @@
+№ п/п	Название таблицы	Название первичного ключа
+1	actor		actor_id
+2	address		address_id
+3	category		category_id
+4	city		city_id
+5	country		country_id
+6	customer		customer_id
+7	film		film_id
+8	film_actor	actor_id
+			film_id
+9	film_category	film_id
+			category_id
+10	inventory	inventory_id
+11	language		language_id
+12	payment		payment_id
+13	rental		rental_id
+14	staff		staff_id
+15	store		store_id
