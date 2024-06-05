@@ -1,0 +1,8 @@
+mysql> CREATE USER 'sys_temp'@'localhost' IDENTIFIED BY 'temp';
+mysql> SELECT user, host FROM mysql.user;
+mysql> GRANT ALL PRIVILEGES ON *.* TO 'sys_temp'@'localhost';
+mysql> show grants for 'sys_temp'@'localhost';
+$ mysql -u sys_temp -p
+mysql> CREATE DATABASE sakila;
+$ mysql -u sys_temp -p sakila < ~/DB/sakila-db/sakila-schema.sql
+$ mysql -u sys_temp -p sakila < ~/DB/sakila-db/sakila-data.sql
